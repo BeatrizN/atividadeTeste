@@ -7,9 +7,6 @@ import br.com.caelum.leilao.servico.Avaliador;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by aluno on 04/10/18.
- */
 public class TesteUnitario {
 
     @Test
